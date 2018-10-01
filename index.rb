@@ -27,3 +27,4 @@ puts "何杯食べる？？なんと3杯食べたら１００円引き！"
 count = gets.chomp.to_i
 
 puts "お会計#{selected_menu.get_total_price(count)}です！"
+puts "毎度ありがとう！また来てね！"
