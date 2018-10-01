@@ -28,3 +28,4 @@ count = gets.chomp.to_i
 
 puts "お会計#{selected_menu.get_total_price(count)}です！"
 puts "毎度ありがとう！また来てね！"
+puts "次は大盛りで！"
